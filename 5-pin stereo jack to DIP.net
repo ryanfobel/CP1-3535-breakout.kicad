@@ -1,0 +1,18 @@
+# EESchema Netlist Version 1.1 created  6/11/2010 9:21:48 PM
+(
+ ( /4C12DD42 PIN_ARRAY_5x1 P1 CONN_5
+  ( 1 N-000001 )
+  ( 2 N-000002 )
+  ( 3 N-000003 )
+  ( 4 N-000004 )
+  ( 5 N-000005 )
+ )
+ ( /4C12DD47 CONN_JACK_STEREO_5PIN_3.5MM P2 CONN_5
+  ( 1 N-000001 )
+  ( 2 N-000002 )
+  ( 3 N-000003 )
+  ( 4 N-000004 )
+  ( 5 N-000005 )
+ )
+)
+*

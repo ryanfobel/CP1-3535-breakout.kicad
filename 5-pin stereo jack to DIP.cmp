@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPCB (20100221 RC4)-RC4 date = 6/11/2010 9:21:48 PM
+
+BeginCmp
+TimeStamp = /4C12DD42;
+Reference = P1;
+ValeurCmp = CONN_5;
+IdModule  = PIN_ARRAY_5x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4C12DD47;
+Reference = P2;
+ValeurCmp = CONN_5;
+IdModule  = CONN_JACK_STEREO_5PIN_3.5MM;
+EndCmp
+
+EndListe
